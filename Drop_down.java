@@ -1,4 +1,4 @@
-package pack1;
+package java_practice;
 
 import java.util.List;
 import org.openqa.selenium.By;

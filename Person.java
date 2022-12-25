@@ -1,6 +1,6 @@
-package oops_concepts;
+package java_practice;
 
-import pack1.encapsulation;
+// import java_practice.encapsulation;
 
 class CTO extends Developer {
     public CTO(String name, int age) {
@@ -66,8 +66,8 @@ abstract class Person {
          * P1.name = "vishal"; P1.age = 24; P2.name = "Ravi"; P2.age = 32;
          * System.out.println(P1.name + " " + P2.name); P2.walk(); P1.eat();
          */
-        encapsulation obj = new encapsulation();
-        obj.doWork();
+        // encapsulation obj = new encapsulation();
+        // obj.doWork();
         // P1.walk();
         D1.sleep();
         // D1.walk();

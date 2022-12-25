@@ -1,4 +1,4 @@
-package oops_concepts;
+package java_practice;
 
 abstract class Car {
     int price;
